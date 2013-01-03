@@ -91,10 +91,10 @@
 .gantt-item {
   position: relative; }
 
-.gantt-days {
+.gantt-days, .gantt-hours {
   overflow: hidden; }
 
-.gantt-day {
+.gantt-day, .gantt-hour {
   float: left; }
 
 .gantt-day span {
